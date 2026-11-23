@@ -11,16 +11,7 @@ This project is a gesture-controlled robotic arm operated using gloves. The left
 
 
 
-Uploading robotic-arm - HD 720p.mov…
-
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-  </tr>
-</table>
+[Explanation and Demo Video (LinkedIn)](https://www.linkedin.com/posts/piyushrsaini_robotics-arduino-embeddedsystems-activity-7501160806588522496-gAqc?utm_medium=ios_app&rcm=ACoAADxhYtIB23kXHSrpRWfBGN_vhxBwpUxagWk&utm_source=social_share_send&utm_campaign=copy_link)
 
 
 ## Prototype
